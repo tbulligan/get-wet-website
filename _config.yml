@@ -55,7 +55,7 @@ round-avatar: true
 social-network-links:
   email: "info@get-wet.nl"
 # rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: Duikvereniging Get-Wet Den Haag
+  facebook: "Duikvereniging Get-Wet Den Haag"
 #  github: daattali
 #  twitter: daattali
 #  patreon: DeanAttali
