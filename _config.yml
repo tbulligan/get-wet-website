@@ -24,9 +24,9 @@ navbar-links:
   Agenda: "agenda"
   Nordzee Duilken: "nordzee-duiken"
   Over Ons: "overons"
-  Links:
-    - PADI: "https://www.padi.com"
-    - De Wilde Nordzee: "https://www.dewildenoordzeefilm.nl//"
+#  Links:
+#    - PADI: "https://www.padi.com"
+#    - De Wilde Nordzee: "https://www.dewildenoordzeefilm.nl//"
 
 
 ################
