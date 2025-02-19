@@ -16,17 +16,17 @@ De duikdiepte ligt tussen de 20 en 35 meter, stroming en minder goed zicht kunne
 
 #### Brevet en ervaring
 
-Brevet: minimaal NOB 2* of PADI Rescue-Diver
-Minimaal 100 gelogde duiken, met ervaring met duiken in zee en met stroming
-Geldige medische (sport)keuring 
-Goede lichamelijke en geestelijke conditie
+- Brevet: minimaal NOB 2* of PADI Rescue-Diver
+- Minimaal 100 gelogde duiken, met ervaring met duiken in zee en met stroming
+- Geldige medische (sport)keuring 
+- Goede lichamelijke en geestelijke conditie
 
 #### Uitrusting
 
-Duikfles volume: minimaal 15 liter
-Bij voorkeur gevuld met Nitrox 32
-Alle flessen met een Nitrox mengsel hebben de vereiste labels (stickers). Voor stages ongeacht het mengsel is dat verplicht.
-Verplicht een SMB met voldoende lijn om de SMB vanaf de bodem te kunnen oplaten (lijnlengte minimaal 40 meter)
+- Duikfles volume: minimaal 15 liter
+- Bij voorkeur gevuld met Nitrox 32
+- Alle flessen met een Nitrox mengsel hebben de vereiste labels (stickers). Voor stages ongeacht het mengsel is dat verplicht.
+- Verplicht een SMB met voldoende lijn om de SMB vanaf de bodem te kunnen oplaten (lijnlengte minimaal 40 meter)
 
 #### Voorwaarden:
 
@@ -49,16 +49,14 @@ Get Wet: IBAN NL 34INGB 0006560003 t.n.v. duikvereniging Get Wet
 
 Prijs voor een duik dag 140 euro.
 
-| | |
-| - | - |
-| zaterdag | 14 juni |
-| zaterdag | 21 juni |
-| zaterdag | 28 juni |
-| zondag | 6 juli |
-| zaterdag | 12 juli |
-| zaterdag | 2 augustus |
-| zondag | 10 augustus |
-| zondag | 24 augustus |
+- Zaterdag 14 juni
+- Zaterdag 21 juni
+- Zaterdag 28 juni
+- Zondag 6 juli
+- Zaterdag 12 juli
+- Zaterdag 2 augustus
+- Zondag 10 augustus
+- Zondag 24 augustus
 
 Hopen op een mooi Noordzee duikseizoen.
 
