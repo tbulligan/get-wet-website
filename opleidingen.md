@@ -8,6 +8,6 @@ subtitle: Haal je duikbrevet en volg specialistische cursussen
 
 Blah bleh.
 
-### specialistische cursussen
+### Specialistische cursussen
 
 Blih bloh bluh.
